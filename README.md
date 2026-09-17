@@ -30,7 +30,7 @@ Aplicação corporativa desenvolvida em Java e SQL voltada para auditoria, rastr
 
 ###  Vamos nos conectar?
 
-* **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com) *(Cole o link do seu perfil aqui)*
+* **LinkedIn:** [Acesse meu perfil profissional]([https://linkedin.com](https://www.linkedin.com/in/thaynara-sousa-1b1037436/)) 
 * **E-mail:** thaynarasousa205@gmail.com
 *  Brasília - DF (Disponível para oportunidades pesquisa de estágio, híbridas ou 100% Home Office) [1.1]
 
