@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu perfil focado em Engenharia, Governança e Administração de Banco de Dados. 
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (5º período no Centro Universitário IESB) em Brasília-DF. Sou apaixonada por desatar nós lógicos, estruturar dados massivos de forma eficiente e garantir a integridade de arquiteturas corporativas.
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (5º período no Centro Universitário IESB)** em Brasília-DF. Sou apaixonada por desatar nós lógicos, estruturar dados massivos de forma eficiente e garantir a integridade de arquiteturas corporativas.
 
 ---
 
@@ -32,6 +32,6 @@ Aplicação corporativa desenvolvida em Java e SQL voltada para auditoria, rastr
 
 * **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/thaynara-sousa-1b1037436/)
 * **E-mail:** thaynarasousa205@gmail.com
-*  Brasília - DF (Disponível para oportunidades pesquisa de estágio, híbridas ou 100% Home Office)
+* 📍 Brasília - DF (Disponível para oportunidades pesquisa de estágio, híbridas ou 100% Home Office).
 
 "Foco na consistência, precisão e eficiência dos dados."
