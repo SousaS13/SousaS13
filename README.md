@@ -12,5 +12,5 @@
 - LinkedIn: [Thaynara Sousa](https://www.linkedin.com/in/thaynara-sousa-1b1037436/)  
 - Email: thaynarasousa205@gmail.com  
 
-##  Frase de impacto
+
 > “Foco na consistência, precisão e eficiência dos dados.”
