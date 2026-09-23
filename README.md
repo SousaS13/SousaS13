@@ -4,9 +4,9 @@
 - Bancos de Dados & Governança  
 - Programação em Python e Java  
 
-##  Projetos em Destaque
-- [Sistema de Gerenciamento de Dados](https://github.com/SousaS13/sistema-gerenciamento-dados)  
-- [Pipeline de Análise de Dados em Python](https://github.com/SousaS13/pipeline-analise-dados-python)  
+## Projetos em Destaque
+-  **[Sistema de Gerenciamento de Dados](https://github.com)**
+-  **[Pipeline de Análise de Dados em Python](https://github.com)** 
 
 ## Vamos nos conectar?
 
