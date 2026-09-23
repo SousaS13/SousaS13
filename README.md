@@ -5,8 +5,8 @@
 - Programação em Python e Java  
 
 ## Projetos em Destaque
--  **[Sistema de Gerenciamento de Dados](https://github.com)**
--  **[Pipeline de Análise de Dados em Python](https://github.com)** 
+-  **[Sistema de Gerenciamento de Dados]([https://github.com](https://github.com/SousaS13/sistema-gerenciamento-dados))**
+-  **[Pipeline de Análise de Dados em Python]([https://github.com](https://github.com/SousaS13/pipeline-analise-dados-python))** 
 
 ## Vamos nos conectar?
 
