@@ -1,6 +1,6 @@
 #  Olá, eu sou a Thaynara Sousa  
 
-Estudante de TI focada em desenvolvimento Backend e Engenharia de Dados. Apaixonada por resolver problemas complexos por trás dos panos, estruturar bancos de dados e construir pipelines de dados eficientes — longe do Power BI e direto no código.
+Estudante de TI focada em desenvolvimento Backend e Engenharia de Dados. Apaixonada por resolver problemas complexos por trás dos panos, estruturar bancos de dados e construir pipelines de dados eficientes.
 
 ##  Tecnologias e Habilidades (Skills)
 * **Languages:** Python, Java, SQL (Advanced)
