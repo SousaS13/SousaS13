@@ -9,7 +9,7 @@ Estudante de TI focada em desenvolvimento Backend e Engenharia de Dados. Apaixon
 * **Cloud & Tools:** Git, GitHub, estudando ecossistema AWS
 
 ##  Projetos em Destaque (Projects)
-* **Pipeline de Análise de Dados em Python:** Extração, limpeza e transformação de dados automatizada utilizando Python e Pandas. *(https://github.com/SousaS13/sistema-gerenciamento-dados))*
+* **Pipeline de Análise de Dados em Python:** Extração, limpeza e transformação de dados automatizada utilizando Python e Pandas. *(https://github.com/SousaS13/sistema-gerenciamento-dados)*
 * **Sistema de Gerenciamento de Dados:** Modelagem e estruturação de banco de dados robusto utilizando SQL e MongoDB. *(Link para o seu repositório)*
 
 ##  Vamos nos conectar? (Let's connect!)
